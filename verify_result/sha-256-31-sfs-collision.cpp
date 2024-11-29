@@ -174,7 +174,7 @@ int main()
 {
     WORD h0[] = {0x5730070d, 0xe93e0eec, 0xa46f6190, 0x47c21930, 0x93bb2b66, 0x2df854ca, 0xeba1176e, 0x223f677b};
     std::vector<WORD> W0;
-     W0.push_back(0xe3145e26);
+    W0.push_back(0xe3145e26);
     W0.push_back(0x31001aac);
     W0.push_back(0xae431764);
     W0.push_back(0xe012d22d);

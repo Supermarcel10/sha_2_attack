@@ -4,7 +4,7 @@
  */
 #include <iomanip>
 #include <iostream>
-#include <sstream>
+#include <cstdint>
 #include <vector>
 
 // Constants used in hash algorithm

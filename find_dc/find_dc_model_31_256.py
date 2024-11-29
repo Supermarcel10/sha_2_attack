@@ -1,5 +1,5 @@
 import subprocess
-from unit_function_256 import *
+from configuration.unit_function_512 import *
 
 
 class FunctionModel:

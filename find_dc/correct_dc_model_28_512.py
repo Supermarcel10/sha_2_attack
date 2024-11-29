@@ -4,7 +4,7 @@
 # @FileName: correct_dc_model_28_512.py
 # @Software: PyCharm
 import subprocess
-from unit_function_512 import *
+from configuration.unit_function_512 import *
 
 
 class FunctionModel:
